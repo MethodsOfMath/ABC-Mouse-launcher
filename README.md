@@ -7,11 +7,11 @@ Installation
 ------------
 
 ```sh
-curl -L https://goo.gl/5rHyQo | bash
+curl -L https://goo.gl/bPbJ8C | bash
 ```
 
 or
 
 ```sh
-wget --no-check-certificate https://goo.gl/5rHyQo -O - | bash
+wget --no-check-certificate https://goo.gl/bPbJ8C -O - | bash
 ```
