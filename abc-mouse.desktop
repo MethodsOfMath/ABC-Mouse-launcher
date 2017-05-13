@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ABC Mouse
+Comment=Early Learning Academy.
+Exec=chromium --app=https://www.abcmouse.com
+Icon=/opt/kano/abc-mouse-launcher/abc-mouse-icon.png
+Type=Application
+Categories=Application;Education;
