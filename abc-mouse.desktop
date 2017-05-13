@@ -2,6 +2,6 @@
 Name=ABC Mouse
 Comment=Early Learning Academy.
 Exec=chromium --app=https://www.abcmouse.com
-Icon=/opt/kano/abc-mouse-launcher/abc-mouse-icon.png
+Icon=/opt/kano/abc-mouse-launcher/ABCmouse-icon.png
 Type=Application
 Categories=Application;Education;
