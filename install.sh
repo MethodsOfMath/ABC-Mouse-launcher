@@ -51,7 +51,7 @@ sudo apt-get -y install git
 
 echo -e "\n[ABC Mouse Launcher installer] Installing desktop icon."
 sudo mkdir -p $LAUNCHER_DIR
-sudo git clone git://github.com/MethodsOfMath/sugarizer-launcher.git $LAUNCHER_DIR
+sudo git clone git://github.com/MethodsOfMath/abc-mouse-launcher.git $LAUNCHER_DIR
 sudo cp $LAUNCHER_DIR/abc-mouse.desktop /usr/share/applications
 
 if test -e ~/Desktop/abc-mouse.desktop; 
